@@ -11,3 +11,7 @@
 - Reproductores digitales.
 - Cámaras fotográficas digitales.
 - Cámaras de video digitales.
+
+**dispositivos móviles para el uso de Internet**
+
+*Actualmente, la tecnología móvil se caracteriza por dispositivos con conexión a Internet, como teléfonos inteligentes, tabletas y relojes.*
